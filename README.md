@@ -1,11 +1,13 @@
 # Welcome!
-Email: TotallyDIO@proton.me
+Email: totallydio@proton.me
 please only contact me with the above, if what you're asking for is important enought then i will give you my discord.
 
 # Stuff i'm working on
-1. Updating Nyarcher & making KDE version
-2. Possibly a new Nyarch spin
-3. Middle School Python
+1. AurumOS; a linux distro for the Nintendo Wii
+2. nyarch Hyprland
+3. Nyarch XFCE
+4. Nyartix KDE
+5. Nyartix Hyprland (may be cancelled)
 
 i like Persona, Umamusume, general anime stuff.
 
